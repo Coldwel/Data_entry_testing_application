@@ -2,7 +2,7 @@ The Software/Game Testing Application is a comprehensive tool designed to stream
 
 Key features of the application include:
 
-1. Employee Management: The app allows the registration and management of employee information, including their roles, permissions, and contact details.
+1. Employee Management: The app allows the registration and management of employee information, including their roles, permissions, and contact details. **Not yet implemented**
 
 2. Bug Reporting: Employees can easily report bugs through a dedicated bug report tab, providing detailed information such as title, preconditions, description, expectation, and reproducibility.
 
